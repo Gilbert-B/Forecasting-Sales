@@ -12,12 +12,19 @@ The dataset used for this case study is provided on the Zindi Africa platform. I
 Column              |Desription
 --------------------------------------------------------------------------------------------------------------------------------
 Target              |the total sales for a product category at a particular store at a given date
+
 Stores_id           | the unique store id
+
 Category_id         |the unique Product category id
+
 Date                |date in numerical representation
+
 Onpromotion         | gives the total number of items in a Product category that were being promoted at a store at a given date
+
 Nbr_of_transactions | the total number of transactions happened at a store at a given date
+
 year_weekofyear     |the combination of the year and the week of the year, (year_weekofyear = year*100+week_of_year)
+
 ID                  |the unique identifier for each row in the testing set: year_week_{year_weekofyear}_{store_id}_{Category_id}
 
 ## Setup
