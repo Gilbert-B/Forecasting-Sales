@@ -10,7 +10,7 @@ The dataset used for this case study is provided on the Zindi Africa platform. I
 
 ### Dataset Description
 |Column|Desription|
---------------------------------------------------------------------------------------------------------------------------------
+|---------------------------|---------------------------------------------------|
 |Target|the total sales for a product category at a particular store at a given date|
 
 |Stores_id| the unique store id|
