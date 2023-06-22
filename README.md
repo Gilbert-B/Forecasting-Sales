@@ -46,6 +46,7 @@ The repository is organized as follows:
 - `data/`: Contains the dataset files.
 - `notebooks/`: Contains Jupyter notebooks showcasing the step-by-step implementation of the case study, including EDA, feature engineering, model development, and evaluation.
 - `dev/`: Contains any source code or scripts used in the case study, such as data preprocessing or custom functions.
+- `app/`: Contains code or pictures used in developing the app .
 
 Feel free to explore the notebooks and source code to gain a deeper understanding of the case study methodology.
 
